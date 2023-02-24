@@ -88,3 +88,5 @@ let outArray  = depthArray.reduce(function(pre, current){
     return pre.concat(current);
 }, []);
 console.log(outArray.length);
+
+
